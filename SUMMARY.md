@@ -12,4 +12,5 @@
 ## view汇总
 
 * [RecyclerView](view-hui-zong/recyclerview.md)
+* [Room](view-hui-zong/room.md)
 
